@@ -68,7 +68,7 @@
               <idleTime>true</idleTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\Users\miracle\Desktop\tests\cal.jtl</stringProp>
+          <stringProp name="filename">../target/jmeter/results/JmeterTest.jtl</stringProp>
         </ResultCollector>
         <hashTree/>
         <IfController guiclass="IfControllerPanel" testclass="IfController" testname="If Controller" enabled="true">
