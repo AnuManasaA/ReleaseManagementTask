@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="0" it="0" lt="0" ts="1485203841716" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.URISyntaxException" rm="Non HTTP response message: Illegal character in query at index 53: https://anumanasa-test.apigee.net/calculator/add?n1=${n1}&amp;n2=${n2}" tn="Thread Group 1-1" dt="text" by="1076" ng="1" na="1"/>
+
+<httpSample t="4933" it="0" lt="4932" ts="1485203907120" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="362" ng="1" na="1"/>
+
+</testResults>
